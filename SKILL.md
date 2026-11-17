@@ -5,7 +5,7 @@ description: >
   Humanize AI-written text and remove AI flavor while keeping the original
   meaning, facts and voice. Works on essays, blog posts, fiction, marketing
   copy, work documents and social posts. Use when the user says "make this
-  sound human", "remove ChatGPT tone", "less robotic", "too AI", "fix my AI
+  sound human", "remove AI tone", "less robotic", "too AI", "fix my AI
   draft", "humanize my essay / blog / novel", "rewrite without changing
   meaning", "去AI味", "降AI味", "润色", "洗稿". Powered by a cloud processing
   engine (not a rulebook) with Golden Pair combo pipelines, a five-dimension
