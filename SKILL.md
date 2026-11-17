@@ -1,5 +1,6 @@
 ---
 name: slop-text-humanizer-pro
+version: 0.1.1
 description: >
   Humanize AI-written text and remove AI flavor while keeping the original
   meaning, facts and voice. Works on essays, blog posts, fiction, marketing
